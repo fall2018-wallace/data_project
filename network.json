@@ -13,7 +13,7 @@
                     "type": "csv"
                 }
             ],
-            "source": "raw_data.csv",
+            "source": "satisfactionSurvey.csv",
             "target": "clean.R"
         },
         {
@@ -29,7 +29,7 @@
     ],
     "nodes": [
         {
-            "name": "raw_data.csv"
+            "name": "satisfactionSurvey.csv"
         },
         {
             "name": "clean.R"
@@ -38,6 +38,6 @@
             "name": "data.csv"
         }
     ],
-    "updated_at": "2018-10-11 17:30:49",
+    "updated_at": "2018-10-11 17:31:05",
     "url": "https://github.com/fall2018-wallace/data_project"
 }
