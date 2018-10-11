@@ -1,6 +1,8 @@
 {
     "collaborators": [
-        "urvi15mistry"
+        "urvi15mistry",
+        "rshett02",
+        "hmehta"
     ],
     "created_at": "2018-10-11 17:30:23",
     "edges": [
@@ -36,6 +38,6 @@
             "name": "data.csv"
         }
     ],
-    "updated_at": "2018-10-11 17:30:23",
+    "updated_at": "2018-10-11 17:30:49",
     "url": "https://github.com/fall2018-wallace/data_project"
 }
